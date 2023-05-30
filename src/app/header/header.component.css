@@ -1,0 +1,31 @@
+header{
+    background-color: white;
+    border-bottom: 1px solid #75aec2;
+    padding: 0;
+}
+.container{
+    margin: 0 auto;
+    display: flex;
+    justify-content:space-between ;
+}
+
+
+a{
+    color:  #75aec2
+}
+a:hover{
+    background-color:  #75aec2;
+    color: white;
+}
+a.logo{
+   font-weight:bold;
+   padding: 1em;
+}
+nav ul{
+    list-style: none;
+    margin: 0;
+}
+nav ul li a{
+    padding: 1em;
+    display: inline-block;
+}
